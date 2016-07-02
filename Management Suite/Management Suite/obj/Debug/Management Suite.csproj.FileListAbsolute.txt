@@ -88,3 +88,14 @@ C:\Projects\managementsuite\Management Suite\Management Suite\bin\System.Web.Web
 C:\Projects\managementsuite\Management Suite\Management Suite\obj\Debug\Management Suite.csprojResolveAssemblyReference.cache
 C:\Projects\managementsuite\Management Suite\Management Suite\obj\Debug\Management Suite.dll
 C:\Projects\managementsuite\Management Suite\Management Suite\obj\Debug\Management Suite.pdb
+C:\Projects\managementsuite\Management Suite\Management Suite\bin\RestSharp.dll
+C:\Projects\managementsuite\Management Suite\Management Suite\bin\Twilio.Api.dll
+C:\Projects\managementsuite\Management Suite\Management Suite\bin\Twilio.Mvc.dll
+C:\Projects\managementsuite\Management Suite\Management Suite\bin\Twilio.Twiml.dll
+C:\Projects\managementsuite\Management Suite\Management Suite\bin\RestSharp.xml
+C:\Projects\managementsuite\Management Suite\Management Suite\bin\Twilio.Api.pdb
+C:\Projects\managementsuite\Management Suite\Management Suite\bin\Twilio.Api.xml
+C:\Projects\managementsuite\Management Suite\Management Suite\bin\Twilio.Mvc.pdb
+C:\Projects\managementsuite\Management Suite\Management Suite\bin\Twilio.Mvc.xml
+C:\Projects\managementsuite\Management Suite\Management Suite\bin\Twilio.Twiml.pdb
+C:\Projects\managementsuite\Management Suite\Management Suite\bin\Twilio.Twiml.xml
